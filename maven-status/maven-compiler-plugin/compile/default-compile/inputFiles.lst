@@ -1,6 +1,0 @@
-/Users/krishnansriram/Projects/Springboot/SMTPService/src/main/java/com/smtp/app/SmtpServiceApplication.java
-/Users/krishnansriram/Projects/Springboot/SMTPService/src/main/java/com/smtp/app/service/EmailService.java
-/Users/krishnansriram/Projects/Springboot/SMTPService/src/main/java/com/smtp/app/handler/SMTPServiceHandler.java
-/Users/krishnansriram/Projects/Springboot/SMTPService/src/main/java/com/smtp/app/exception/EmailServiceException.java
-/Users/krishnansriram/Projects/Springboot/SMTPService/src/main/java/com/smtp/app/router/EmailServiceHandler.java
-/Users/krishnansriram/Projects/Springboot/SMTPService/src/main/java/com/smtp/app/domain/EmailRequest.java
